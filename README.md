@@ -1,3 +1,5 @@
+![logo](https://commutewise.com/assets/admin/layout/img/logo-commutewise-inverted.png)
+
 # Commutewise mobile app
 This project is a mobile app for https://commutewise.com. 
 
